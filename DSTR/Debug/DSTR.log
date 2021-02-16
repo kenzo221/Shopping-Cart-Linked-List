@@ -1,0 +1,4 @@
+﻿  DSTR.cpp
+D:\DSTR\DSTR\DSTR.cpp(1087): warning C4715: 'findprice': not all control paths return a value
+D:\DSTR\DSTR\DSTR.cpp(1105): warning C4715: 'findtype': not all control paths return a value
+  DSTR.vcxproj -> D:\DSTR\Debug\DSTR.exe
